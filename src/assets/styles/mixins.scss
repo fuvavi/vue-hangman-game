@@ -1,0 +1,7 @@
+@mixin get-dark-bottom($color) {
+  box-shadow: 0 8px 0 darken($color, 10%);
+}
+
+@mixin get-dark-bottom-sm($color) {
+  box-shadow: 0 4px 0 darken($color, 10%);
+}

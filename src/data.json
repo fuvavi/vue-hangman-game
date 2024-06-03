@@ -1,0 +1,278 @@
+[
+  {
+    "id": 1,
+    "name": "Countries",
+    "questions": [
+      {
+        "correctAnswer": ["C", "A", "N", "A", "D", "A"],
+        "suggestion": ["C"]
+      },
+      {
+        "correctAnswer": ["B", "R", "A", "Z", "I", "L"],
+        "suggestion": ["B"]
+      },
+      {
+        "correctAnswer": ["I", "N", "D", "I", "A"],
+        "suggestion": ["I"]
+      },
+      {
+        "correctAnswer": ["J", "A", "P", "A", "N"],
+        "suggestion": ["J"]
+      },
+      {
+        "correctAnswer": ["A", "U", "S", "T", "R", "A", "L", "I", "A"],
+        "suggestion": ["A"]
+      },
+      {
+        "correctAnswer": ["E", "G", "Y", "P", "T"],
+        "suggestion": ["E"]
+      },
+      {
+        "correctAnswer": ["F", "R", "A", "N", "C", "E"],
+        "suggestion": ["F"]
+      },
+      {
+        "correctAnswer": ["G", "E", "R", "M", "A", "N", "Y"],
+        "suggestion": ["G"]
+      },
+      {
+        "correctAnswer": ["M", "E", "X", "I", "C", "O"],
+        "suggestion": ["M"]
+      },
+      {
+        "correctAnswer": ["I", "T", "A", "L", "Y"],
+        "suggestion": ["I"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Animals",
+    "questions": [
+      {
+        "correctAnswer": ["T", "I", "G", "E", "R"],
+        "suggestion": ["T"]
+      },
+      {
+        "correctAnswer": ["E", "L", "E", "P", "H", "A", "N", "T"],
+        "suggestion": ["E"]
+      },
+      {
+        "correctAnswer": ["G", "I", "R", "A", "F", "F", "E"],
+        "suggestion": ["G"]
+      },
+      {
+        "correctAnswer": ["K", "A", "N", "G", "A", "R", "O", "O"],
+        "suggestion": ["K"]
+      },
+      {
+        "correctAnswer": ["C", "H", "E", "E", "T", "A", "H"],
+        "suggestion": ["C"]
+      },
+      {
+        "correctAnswer": ["D", "O", "L", "P", "H", "I", "N"],
+        "suggestion": ["D"]
+      },
+      {
+        "correctAnswer": ["P", "A", "N", "D", "A"],
+        "suggestion": ["P"]
+      },
+      {
+        "correctAnswer": ["P", "E", "N", "G", "U", "I", "N"],
+        "suggestion": ["P"]
+      },
+      {
+        "correctAnswer": ["C", "R", "O", "C", "O", "D", "I", "L", "E"],
+        "suggestion": ["C"]
+      },
+      {
+        "correctAnswer": ["L", "E", "O", "P", "A", "R", "D"],
+        "suggestion": ["L"]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Body",
+    "questions": [
+      {
+        "correctAnswer": ["H", "E", "A", "D"],
+        "suggestion": ["H"]
+      },
+      {
+        "correctAnswer": ["S", "T", "O", "M", "A", "C", "H"],
+        "suggestion": ["S"]
+      },
+      {
+        "correctAnswer": ["B", "A", "C", "K"],
+        "suggestion": ["B"]
+      },
+      {
+        "correctAnswer": ["H", "A", "N", "D"],
+        "suggestion": ["H"]
+      },
+      {
+        "correctAnswer": ["L", "E", "G"],
+        "suggestion": ["L"]
+      },
+      {
+        "correctAnswer": ["A", "R", "M"],
+        "suggestion": ["A"]
+      },
+      {
+        "correctAnswer": ["H", "E", "A", "R", "T"],
+        "suggestion": ["H"]
+      },
+      {
+        "correctAnswer": ["B", "R", "A", "I", "N"],
+        "suggestion": ["B"]
+      },
+      {
+        "correctAnswer": ["L", "U", "N", "G", "S"],
+        "suggestion": ["L"]
+      },
+      {
+        "correctAnswer": ["E", "A", "R"],
+        "suggestion": ["E"]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Transport",
+    "questions": [
+      {
+        "correctAnswer": ["C", "A", "R"],
+        "suggestion": ["C"]
+      },
+      {
+        "correctAnswer": ["T", "R", "A", "I", "N"],
+        "suggestion": ["T"]
+      },
+      {
+        "correctAnswer": ["A", "I", "R", "P", "L", "A", "N", "E"],
+        "suggestion": ["A"]
+      },
+      {
+        "correctAnswer": ["B", "I", "C", "Y", "C", "L", "E"],
+        "suggestion": ["B"]
+      },
+      {
+        "correctAnswer": ["M", "O", "T", "O", "R", "C", "Y", "C", "L", "E"],
+        "suggestion": ["M"]
+      },
+      {
+        "correctAnswer": ["S", "U", "B", "W", "A", "Y"],
+        "suggestion": ["S"]
+      },
+      {
+        "correctAnswer": ["S", "H", "I", "P"],
+        "suggestion": ["S"]
+      },
+      {
+        "correctAnswer": ["T", "R", "U", "C", "K"],
+        "suggestion": ["T"]
+      },
+      {
+        "correctAnswer": ["H", "E", "L", "I", "C", "O", "P", "T", "E", "R"],
+        "suggestion": ["H"]
+      },
+      {
+        "correctAnswer": ["B", "O", "A", "T"],
+        "suggestion": ["B"]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Food",
+    "questions": [
+      {
+        "correctAnswer": ["P", "I", "Z", "Z", "A"],
+        "suggestion": ["P"]
+      },
+      {
+        "correctAnswer": ["S", "A", "L", "A", "D"],
+        "suggestion": ["S"]
+      },
+      {
+        "correctAnswer": ["B", "U", "R", "G", "E", "R"],
+        "suggestion": ["B"]
+      },
+      {
+        "correctAnswer": ["P", "A", "S", "T", "A"],
+        "suggestion": ["P"]
+      },
+      {
+        "correctAnswer": ["S", "U", "S", "H", "I"],
+        "suggestion": ["S"]
+      },
+      {
+        "correctAnswer": ["C", "H", "I", "C", "K", "E", "N"],
+        "suggestion": ["C"]
+      },
+      {
+        "correctAnswer": ["B", "R", "E", "A", "D"],
+        "suggestion": ["B"]
+      },
+      {
+        "correctAnswer": ["C", "H", "E", "E", "S", "E"],
+        "suggestion": ["C"]
+      },
+      {
+        "correctAnswer": ["S", "T", "E", "A", "K"],
+        "suggestion": ["S"]
+      },
+      {
+        "correctAnswer": ["S", "O", "U", "P"],
+        "suggestion": ["S"]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Programing",
+    "questions": [
+      {
+        "correctAnswer": ["P", "Y", "T", "H", "O", "N"],
+        "suggestion": ["P"]
+      },
+      {
+        "correctAnswer": ["J", "A", "V", "A"],
+        "suggestion": ["J"]
+      },
+      {
+        "correctAnswer": ["J", "A", "V", "A", "S", "C", "R", "I", "P", "T"],
+        "suggestion": ["C"]
+      },
+      {
+        "correctAnswer": ["R", "U", "B", "Y"],
+        "suggestion": ["R"]
+      },
+      {
+        "correctAnswer": ["S", "W", "I", "F", "T"],
+        "suggestion": ["S"]
+      },
+      {
+        "correctAnswer": ["G", "O"],
+        "suggestion": []
+      },
+      {
+        "correctAnswer": ["P", "H", "P"],
+        "suggestion": []
+      },
+      {
+        "correctAnswer": ["C", "P", "L", "U", "S", "P", "L", "U", "S"],
+        "suggestion": ["C"]
+      },
+      {
+        "correctAnswer": ["K", "O", "T", "L", "I", "N"],
+        "suggestion": ["K"]
+      },
+      {
+        "correctAnswer": ["R", "U", "B", "Y"],
+        "suggestion": []
+      }
+    ]
+  }
+]

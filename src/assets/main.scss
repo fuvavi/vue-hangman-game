@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import '@/assets/styles/base.css';
+@import '@/assets/styles/base.css';
+@import '@/assets/styles/mixins.scss';
+
+.flex-centered {
+  @apply flex justify-center items-center;
+}
+
+.app-wrapper {
+  @apply flex justify-center items-center;
+  min-height: 100dvh;
+  background: rgb(156, 89, 254);
+  background: linear-gradient(
+    0deg,
+    rgba(156, 89, 254, 1) 0%,
+    rgba(111, 83, 253, 1) 100%
+  );
+}

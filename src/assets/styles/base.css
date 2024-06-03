@@ -1,0 +1,44 @@
+:root {
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-purple: #9f51fe;
+  --color-orange: #ffb213;
+  --color-blue: #4cdafe;
+  --color-pink: #fc8aff;
+  --color-green: #67eb00;
+  --color-violet: #c286ff;
+  --color-red: #f66d4b;
+  --color-yellow: #ffd217;
+  --color-yellowlight: #fff635;
+  --color-deepred: #ff4672;
+  --color-red: #ff0c45;
+  --color-navy: #5b3bd4;
+  --color-teal: #34d399;
+  --color-background: #6f53fd;
+  --color-text: var(--color-white);
+  --font-primary: 'Baloo 2', sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
+
+body {
+  min-height: 100vh;
+  color: var(--color-text);
+  background: var(--color-background);
+  transition:
+    color 0.5s,
+    background-color 0.5s;
+  line-height: 1.6;
+  font-family: var(--font-primary);
+  font-optical-sizing: auto;
+  font-size: 16px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
