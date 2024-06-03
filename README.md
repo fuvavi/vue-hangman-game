@@ -2,6 +2,13 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+# Demo
+
+
+https://github.com/fuvavi/vue-hangman-game/assets/33111017/a1d50108-d3ff-4a63-bc02-c751638afa53
+
+
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
