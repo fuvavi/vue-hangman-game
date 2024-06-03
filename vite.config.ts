@@ -4,7 +4,11 @@ import vue from '@vitejs/plugin-vue';
 import vueJsx from '@vitejs/plugin-vue-jsx';
 import svgLoader from 'vite-svg-loader';
 
-// https://vitejs.dev/config/
+/**
+ * https://vitejs.dev/config/
+ * @type {import('vite').UserConfig}
+ */
+
 export default defineConfig({
   plugins: [
     vue(),
@@ -12,8 +16,11 @@ export default defineConfig({
     svgLoader()
   ],
   resolve: {
-    alias: {
-      '@': fileURLToPath(new URL('./src', import.meta.url))
-    }
+    alias: [
+      {
+        find: '@',
+        replacement: fileURLToPath(new URL('./src', import.meta.url))
+      },
+    ]
   }
 })
