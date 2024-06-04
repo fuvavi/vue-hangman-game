@@ -12,7 +12,7 @@ import Header from '@/components/TheHeader.vue';
 <style>
 @media (min-width: 1024px) {
   .theme-screen {
-    min-height: 100vh;
+    min-height: 100svh;
     display: flex;
     align-items: center;
   }

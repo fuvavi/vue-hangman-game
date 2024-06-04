@@ -28,7 +28,7 @@ defineEmits(['on-click']);
 <style lang="scss" scoped>
 .app-wrapper {
   @apply flex justify-center items-center;
-  min-height: 100vh;
+  min-height: 100svh;
   background: rgb(156, 89, 254);
   background: linear-gradient(
     0deg,

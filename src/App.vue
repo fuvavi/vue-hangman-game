@@ -4,7 +4,7 @@ import { RouterView } from 'vue-router';
 
 <template>
   <div
-    class="app-container flex flex-col justify-center relative min-h-[100vh] max-w-[320px] w-full"
+    class="app-container flex flex-col justify-center relative min-h-[100svh] max-w-[320px] w-full"
   >
     <RouterView name="header" class="app-header" />
     <RouterView />
