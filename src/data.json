@@ -88,6 +88,39 @@
       {
         "correctAnswer": ["L", "E", "O", "P", "A", "R", "D"],
         "suggestion": ["L"]
+      },
+      {
+        "correctAnswer": ["L", "I", "O", "N"],
+        "suggestion": []
+      },
+      {
+        "correctAnswer": ["Z", "E", "B", "R", "A"],
+        "suggestion": ["R"]
+      },
+      {
+        "correctAnswer": ["M", "O", "N", "K", "E", "Y"],
+        "suggestion": ["M"]
+      },
+      {
+        "correctAnswer": ["C", "H", "E", "E", "T", "A", "H"],
+        "suggestion": ["C"]
+      },
+      {
+        "correctAnswer": [
+          "H",
+          "I",
+          "P",
+          "P",
+          "O",
+          "P",
+          "O",
+          "T",
+          "A",
+          "M",
+          "U",
+          "S"
+        ],
+        "suggestion": ["H"]
       }
     ]
   },
@@ -98,6 +131,26 @@
       {
         "correctAnswer": ["H", "E", "A", "D"],
         "suggestion": ["H"]
+      },
+      {
+        "correctAnswer": ["H", "E", "A", "R", "T"],
+        "suggestion": ["H"]
+      },
+      {
+        "correctAnswer": ["K", "I", "D", "N", "E", "Y"],
+        "suggestion": ["K"]
+      },
+      {
+        "correctAnswer": ["L", "I", "V", "E", "R"],
+        "suggestion": ["L"]
+      },
+      {
+        "correctAnswer": ["B", "O", "N", "E"],
+        "suggestion": ["B"]
+      },
+      {
+        "correctAnswer": ["S", "K", "I", "N"],
+        "suggestion": ["S"]
       },
       {
         "correctAnswer": ["S", "T", "O", "M", "A", "C", "H"],
@@ -272,6 +325,158 @@
       {
         "correctAnswer": ["R", "U", "B", "Y"],
         "suggestion": []
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Fruits",
+    "questions": [
+      {
+        "correctAnswer": ["A", "P", "P", "L", "E"],
+        "suggestion": ["A"]
+      },
+      {
+        "correctAnswer": ["B", "A", "N", "A", "N", "A"],
+        "suggestion": ["B"]
+      },
+      {
+        "correctAnswer": ["C", "H", "E", "R", "R", "Y"],
+        "suggestion": ["C"]
+      },
+      {
+        "correctAnswer": ["G", "R", "A", "P", "E"],
+        "suggestion": ["G"]
+      },
+      {
+        "correctAnswer": ["O", "R", "A", "N", "G", "E"],
+        "suggestion": ["O"]
+      },
+      {
+        "correctAnswer": ["M", "A", "N", "G", "O"],
+        "suggestion": ["M"]
+      },
+      {
+        "correctAnswer": ["P", "I", "N", "E", "A", "P", "P", "L", "E"],
+        "suggestion": ["P"]
+      },
+      {
+        "correctAnswer": ["S", "T", "R", "A", "W", "B", "E", "R", "R", "Y"],
+        "suggestion": ["S"]
+      },
+      {
+        "correctAnswer": ["W", "A", "T", "E", "R", "M", "E", "L", "O", "N"],
+        "suggestion": ["W"]
+      },
+      {
+        "correctAnswer": ["P", "E", "A", "C", "H"],
+        "suggestion": ["P"]
+      },
+      {
+        "correctAnswer": ["P", "L", "U", "M"],
+        "suggestion": ["P"]
+      },
+      {
+        "correctAnswer": ["P", "A", "P", "A", "Y", "A"],
+        "suggestion": ["P"]
+      },
+      {
+        "correctAnswer": ["L", "E", "M", "O", "N"],
+        "suggestion": ["L"]
+      },
+      {
+        "correctAnswer": ["L", "I", "M", "E"],
+        "suggestion": ["L"]
+      },
+      {
+        "correctAnswer": ["A", "P", "R", "I", "C", "O", "T"],
+        "suggestion": ["A"]
+      },
+      {
+        "correctAnswer": ["F", "I", "G"],
+        "suggestion": ["F"]
+      },
+      {
+        "correctAnswer": ["C", "O", "C", "O", "N", "U", "T"],
+        "suggestion": ["C"]
+      },
+      {
+        "correctAnswer": ["B", "L", "U", "E", "B", "E", "R", "R", "Y"],
+        "suggestion": ["B"]
+      },
+      {
+        "correctAnswer": ["K", "I", "W", "I"],
+        "suggestion": ["K"]
+      },
+      {
+        "correctAnswer": ["P", "E", "A", "R"],
+        "suggestion": ["P"]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Subjects",
+    "questions": [
+      {
+        "correctAnswer": ["M", "A", "T", "H"],
+        "suggestion": ["T"]
+      },
+      {
+        "correctAnswer": ["E", "N", "G", "L", "I", "S", "H"],
+        "suggestion": ["I"]
+      },
+      {
+        "correctAnswer": ["P", "H", "Y", "S", "I", "C", "S"],
+        "suggestion": ["H"]
+      },
+      {
+        "correctAnswer": ["C", "H", "E", "M", "I", "S", "T", "R", "Y"],
+        "suggestion": ["Y"]
+      },
+      {
+        "correctAnswer": ["B", "I", "O", "L", "O", "G", "Y"],
+        "suggestion": ["B"]
+      },
+      {
+        "correctAnswer": ["H", "I", "S", "T", "O", "R", "Y"],
+        "suggestion": ["H"]
+      },
+      {
+        "correctAnswer": ["G", "E", "O", "G", "R", "A", "P", "H", "Y"],
+        "suggestion": ["G"]
+      },
+      {
+        "correctAnswer": ["E", "C", "O", "N", "O", "M", "I", "C", "S"],
+        "suggestion": ["E"]
+      },
+      {
+        "correctAnswer": ["C", "O", "M", "P", "U", "T", "E", "R", "S"],
+        "suggestion": ["C"]
+      },
+      {
+        "correctAnswer": ["A", "R", "T"],
+        "suggestion": ["A"]
+      },
+      {
+        "correctAnswer": ["M", "U", "S", "I", "C"],
+        "suggestion": ["M"]
+      },
+      {
+        "correctAnswer": ["P", "H", "I", "L", "O", "S", "O", "P", "H", "Y"],
+        "suggestion": ["P"]
+      },
+      {
+        "correctAnswer": ["P", "S", "Y", "C", "H", "O", "L", "O", "G", "Y"],
+        "suggestion": ["P"]
+      },
+      {
+        "correctAnswer": ["S", "O", "C", "I", "O", "L", "O", "G", "Y"],
+        "suggestion": ["S"]
+      },
+      {
+        "correctAnswer": ["L", "A", "W"],
+        "suggestion": ["L"]
       }
     ]
   }
